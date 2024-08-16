@@ -1,0 +1,39 @@
+{
+  "chatSettings": {
+    "root-container": {
+      "background-color": "#f5f5f520",
+      "border": "1px solid #83f00020    ",
+      "border-radius": "5px",
+      "padding": "10px",
+      "margin": "10px"
+    },
+    "title": {
+      "font-size": "20px",
+      "color": "#888",
+      "margin": "0 0 10px 0",
+      "shadow": "1px 1px 1px #ccc"
+    },
+    "message": {
+      "background-color": "#fff",
+      "border": "1px solid #ccc",
+      "border-radius": "5px",
+      "padding": "10px",
+      "margin": "10px 0"
+    },
+    "user": {
+      "font-size": "14px",
+      "color": "#333",
+      "margin": "0 0 5px 0"
+    },
+    "payload": {
+      "font-size": "16px",
+      "color": "#333",
+      "margin": "0"
+    },
+    "badges": {
+      "font-size": "12px",
+      "color": "#333",
+      "margin": "0 0 5px 0"
+    }
+  }
+}
